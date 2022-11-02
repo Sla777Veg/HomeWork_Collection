@@ -97,9 +97,7 @@ public class Main {
         System.out.println(vano);
         System.out.println(tinkoff);
     }
-    private static void Date(Transport transport) {
 
-    }
 
 
 }
